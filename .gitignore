@@ -1,0 +1,6 @@
+.git/
+node_modules/
+preview-*.png
+validation-*.json
+.DS_Store
+Thumbs.db
